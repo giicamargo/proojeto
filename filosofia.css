@@ -45,9 +45,9 @@ nav li a:hover{
     --preto: #000000;
     --marinho: #333;
     --amarelo-claro:white;
-    --roxo-claro:#B2A5FF;
+    --roxo-claro:#2500f8;
     --verde: black;
-    --azul-claro: darkgrey;
+    --azul-claro: rgb(224, 104, 104);
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
 }
