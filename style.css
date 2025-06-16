@@ -16,7 +16,7 @@ nav li a{
     display: inline-block;
     color: rgb(0, 0, 0);
     text-decoration: none;
-    padding: 15px;
+    padding: 10px;
 }
 
 nav li a:hover{
@@ -25,7 +25,7 @@ nav li a:hover{
 
 .dropdown-menu{
     position: absolute;
-    box-shadow: 0 0 2px black;
+    box-shadow: 0 0 2px rgb(255, 253, 253);
     display: none;
     
 }
